@@ -19,7 +19,6 @@ async def main():
 
     if st.button('Show Recommendation'):
         recommended = await recommend(movies, similarity, selected_movie)
-        st.write("hello")
         # Grid layout UI
         col1, col2, col3, col4, col5 = st.columns(5)
         with col1:
