@@ -1,6 +1,6 @@
 # Movie Recommender System - Python
 
-![Movie Recommender System](./doc/Screenshot from 2023-07-22 18-10-54.png)
+![Movie Recommender System](./doc/recommender.png)
 
 This repository contains a Movie Recommender System implemented in Python, utilizing data from TMDb (The Movie Database). The system aims to provide personalized movie recommendations based on user preferences and historical data.
 
