@@ -2,7 +2,7 @@ from typing import Union
 from aiohttp import ClientSession
 from numpy import int64
 
-from config import API
+from .config import API
 
 
 async def fetch_poster(id_: Union[int, int64]):
