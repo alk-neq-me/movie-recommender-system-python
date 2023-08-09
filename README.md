@@ -58,6 +58,4 @@ Contributions to this movie recommender system are welcome. If you find any issu
 
 ## License
 
-[Indicate the license under which you're releasing the code, e.g., MIT License, Apache License 2.0, etc.]
-
-[Include any additional sections, such as Acknowledgments, References, etc., if necessary.]
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/alk-neq-me/movie-recommender-system-python/blob/main/LICENSE) file for details.
