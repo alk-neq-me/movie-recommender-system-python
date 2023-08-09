@@ -56,8 +56,3 @@ To use the Movie Recommender System, follow these instructions:
 
 Contributions to this movie recommender system are welcome. If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
-## License
-
-[Indicate the license under which you're releasing the code, e.g., MIT License, Apache License 2.0, etc.]
-
-[Include any additional sections, such as Acknowledgments, References, etc., if necessary.]
